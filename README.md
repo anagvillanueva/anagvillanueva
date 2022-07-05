@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Ana ✨</h1>
+<h1 align="center">Hola, soy Ana Villanueva✨</h1>
 <h3 align="center">Soy estudiante de Ingeniería en Computación, en la Facultad de Estudios Superiores Aragón 🌮  </h3>
 <p>📝 Podras encontrar algunos proyectos escolares.<p>
 <p>🌱 Constantemente estoy aprendiendo, por si ves algo raro por ahí.<p>
