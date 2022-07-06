@@ -1,8 +1,5 @@
 <h1 align="center">Hola, soy Ana Villanueva✨</h1>
 
-
-<p align="left"> <a href="https://twitter.com/ana_gvillanueva" target="blank"><img src="https://img.shields.io/twitter/follow/ana_gvillanueva?logo=twitter&style=para-la-insignia" alt="ana_gvillanueva" /></a> </p>
-
 <h3 align="center">Soy estudiante de Ingeniería en Computación, en la Facultad de Estudios Superiores Aragón 🌮  </h3>
 <p>📝 Podras encontrar algunos proyectos escolares.<p>
 <p>🌱 Constantemente estoy aprendiendo, por si ves algo raro por ahí.<p>
