@@ -1,18 +1,18 @@
 <h1 align="center">¡Hi! I'm Ana Villanueva <a> <br> <img aling="left" width="120" height="120" src="https://github.com/anagvillanueva/anagvillanueva/blob/main/4Snj.gif?raw=true" /></a></h1>
 
-<h3 align="center"> Computer Engineering Student UNAM | IBM Student 💙 | DEV.F Student </h3>
-<p> <li> You can find school projects 📝 <p>
-<p> <li> I'm constantly learning new things, don't be surprised if you see something peculiar 🌱<p>
+<h3 align="center"> Computer Engineering Student - UNAM  | IBM Student 💙 | DEV.F Student </h3>
+<p> <li> You can find school and personal projects 📚 <p>
+<p> <li> I'm constantly learning, don't be surprised if you see something peculiar 🚀 <p>
 <p> <li> I'm interested in frontend technologies, databases and cybersecurity 💻<p>
+<p> <li> You can send me an email here: anagutierrez87@aragon.unam.mx 💌 <p>
+
+
+<a href="https://www.credly.com/badges/764a5830-980b-4454-85d5-f3f33fdd95e4" target="_blank"><img aling="center" width="80" height="80" src="https://user-images.githubusercontent.com/54164289/177465006-4dc8128a-29f9-4335-abbb-8801e22655c3.png"> 
+<a href="https://www.credly.com/badges/dd7a10db-05e8-458b-aad5-b729a8d86da0" target="_blank"> <img aling="center" width="80" height="80" src="https://user-images.githubusercontent.com/54164289/177465014-fa14b8ef-c216-4d9a-b857-3adb46626e47.png"> 
 
 
 
-<img aling="center" width="80" height="80" href="https://www.credly.com/badges/764a5830-980b-4454-85d5-f3f33fdd95e4" target="_blank"src="https://user-images.githubusercontent.com/54164289/177465006-4dc8128a-29f9-4335-abbb-8801e22655c3.png">
-<img aling="center" width="80" height="80" src="https://user-images.githubusercontent.com/54164289/177465014-fa14b8ef-c216-4d9a-b857-3adb46626e47.png">
-
-
-
-## 🔗 Connect with me
+## 📱 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/ana-fernanda-guti%C3%A9rrez-villanueva/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ana_gvillanueva)
 
@@ -35,5 +35,5 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 
-## 🚀 GitHub Stats
+## 
   ![anagvillanueva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anagvillanueva&theme=radical&show_icons=true)
