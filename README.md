@@ -5,6 +5,13 @@
 <p> <li> I'm constantly learning new things, don't be surprised if you see something peculiar 🌱<p>
 <p> <li> I'm interested in frontend technologies, databases and cybersecurity 💻<p>
 
+
+
+<img aling="center" width="80" height="80" href="https://www.credly.com/badges/764a5830-980b-4454-85d5-f3f33fdd95e4" target="_blank"src="https://user-images.githubusercontent.com/54164289/177465006-4dc8128a-29f9-4335-abbb-8801e22655c3.png">
+<img aling="center" width="80" height="80" src="https://user-images.githubusercontent.com/54164289/177465014-fa14b8ef-c216-4d9a-b857-3adb46626e47.png">
+
+
+
 ## 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/ana-fernanda-guti%C3%A9rrez-villanueva/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ana_gvillanueva)
