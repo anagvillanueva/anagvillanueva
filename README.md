@@ -1,14 +1,14 @@
-<h1 align="center">¡Hi! I'm Ana Villanueva <a> <br> <img aling="left" width="120" height="120" src="https://github.com/anagvillanueva/anagvillanueva/blob/main/4Snj.gif?raw=true" /></a></h1>
+<h1 align="center">¡Hi! I'm Ana Villanueva <a> <br> <img aling="left" width="100" height="100" src="https://github.com/anagvillanueva/anagvillanueva/blob/main/4Snj.gif?raw=true" /></a></h1>
 
-<h3 align="center"> Computer Engineering Student - UNAM  | IBM Student 💙 | DEV.F Student </h3>
+<h3 align="center"> Computer Engineering Student UNAM  | IBM Student 💙 | DEV.F Student </h3>
 <p> <li> You can find school and personal projects 📚 <p>
 <p> <li> I'm constantly learning, don't be surprised if you see something peculiar 🚀 <p>
 <p> <li> I'm interested in frontend technologies, databases and cybersecurity 💻<p>
 <p> <li> You can send me an email here: anagutierrez87@aragon.unam.mx 💌 <p>
 
 <div align="center">
-<a href="https://www.credly.com/badges/764a5830-980b-4454-85d5-f3f33fdd95e4" target="_blank"><img aling="center" width="80" height="80" src="https://user-images.githubusercontent.com/54164289/177465006-4dc8128a-29f9-4335-abbb-8801e22655c3.png"> 
-<a href="https://www.credly.com/badges/dd7a10db-05e8-458b-aad5-b729a8d86da0" target="_blank"> <img aling="center" width="80" height="80" src="https://user-images.githubusercontent.com/54164289/177465014-fa14b8ef-c216-4d9a-b857-3adb46626e47.png"> 
+<a href="https://www.credly.com/badges/764a5830-980b-4454-85d5-f3f33fdd95e4" target="_blank"><img aling="center" width="90" height="90" src="https://user-images.githubusercontent.com/54164289/177465006-4dc8128a-29f9-4335-abbb-8801e22655c3.png"> 
+<a href="https://www.credly.com/badges/dd7a10db-05e8-458b-aad5-b729a8d86da0" target="_blank"> <img aling="center" width="90" height="90" src="https://user-images.githubusercontent.com/54164289/177465014-fa14b8ef-c216-4d9a-b857-3adb46626e47.png"> 
 </div>
 
 
@@ -30,7 +30,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  
 ## 
+  
 <div align="center">
   ![anagvillanueva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anagvillanueva&theme=radical&show_icons=true)
-  
- </di>
+
+ </div>
