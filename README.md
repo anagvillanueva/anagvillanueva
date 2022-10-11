@@ -1,6 +1,6 @@
 <h1 align="center">¡Hi! I'm Ana Villanueva <a> <br> <img aling="left" width="100" height="100" src="https://github.com/anagvillanueva/anagvillanueva/blob/main/4Snj.gif?raw=true" /></a></h1>
 
-<h3 align="center"> Computer Engineering Student UNAM  | IBM Student 💙 | DEV.F Student </h3>
+<h3 align="center"> Computer Engineering Student UNAM  | IBM Student 💙 | DEV.F </h3>
 <p> <li> You can find school and personal projects 📚 <p>
 <p> <li> I'm constantly learning, don't be surprised if you see something peculiar 🚀 <p>
 <p> <li> I'm interested in frontend technologies, databases and cybersecurity 💻<p>
